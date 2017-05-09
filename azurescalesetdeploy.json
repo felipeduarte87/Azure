@@ -18,7 +18,7 @@
       "type": "string",
       "allowedValues": [
         "Standard_D1",
-		"Standard_A4",
+	    "Standard_A4",
         "Standard_DS1",
         "Standard_D2",
         "Standard_DS2",
