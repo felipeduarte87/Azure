@@ -270,7 +270,7 @@
                     {
                       "name": "ip1",
                       "properties": {
-                        "subnet": {
+                        "AZ_CB": {
                           "id": "[variables('subnetRef')]"
                         },
                         "loadBalancerBackendAddressPools": [
